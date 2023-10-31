@@ -1,5 +1,5 @@
 # Birthday Tracker
-Introducing Birthday Tracker, the sleek and user-friendly web application for effortlessly managing and tracking birthdays, featuring an attractive Bootstrap-based interface.
+Introducing Birthday Tracker, the sleek and user-friendly web application for effortlessly managing and tracking birthdays, featuring an attractive Bootstrap-based interface, all powered by Python and Flask.
 
 ## Project Objectives
 1. **User-Friendly Birthday Database**: Create a straightforward and easy-to-use platform for users to input and store important birthdays.
