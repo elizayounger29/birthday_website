@@ -30,7 +30,6 @@ To set up, follow these steps:
     ```bash
     cd birthdays
 
-
 ## Deployment
 
 1. Install the project's dependencies using pipenv (If you do not already have pip and pipenv installed you must do so before proceeding):
@@ -45,7 +44,7 @@ To set up, follow these steps:
 
 ## Exit
 
-1. Once finished:
+1. Once finished, close the window and in your terminal type the following:
 
     ```bash
     ctrl c
